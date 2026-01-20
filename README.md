@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm LadonON</h1>
+<h3 align="center">I like making fun and useful things!</h3>
+
+- A Minecraft leaderboard plugin [Board](https://github.com/LadonON/Board)
+
 - 🌱 I’m currently learning **Java**
+
+- Python file-sharing platform [Land-File](https://github.com/LadonON/Land_File)
 
 - 👨‍💻 All of my projects are available at [github.com/LadonON](github.com/LadonON)
 
-- ⚡ Fun fact **I like python!**
+- ⚡ Fun fact **Linux > Windows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
